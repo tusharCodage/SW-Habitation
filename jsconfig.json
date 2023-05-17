@@ -1,0 +1,8 @@
+{ "module": "CommonJS",
+"baseUrl": ".",
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  }
+}

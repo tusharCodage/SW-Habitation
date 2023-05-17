@@ -1,0 +1,5 @@
+---
+title: SOLIDITY
+slug: solidity
+---
+

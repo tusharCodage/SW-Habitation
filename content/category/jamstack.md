@@ -1,0 +1,6 @@
+---
+title: JAMstack
+slug: jamstack
+---
+
+
